@@ -1,15 +1,15 @@
 # My Portfolio
 
-![Screenshot 2023-09-19 235157](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/9e9ab83f-a5ad-4e65-ac44-14cf6e506bf0)
+![Screenshot 2023-09-20 001407](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/f7424d85-f0ff-4f87-8f4d-6ec6ac2f4769)
 
-![Screenshot 2023-09-19 235301](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/5b74fd36-3583-4530-8bc1-9035d28dc1a5)
+![Screenshot 2023-09-20 001443](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/cc3473a3-3518-42fc-a552-441fbfb9a10f)
 
-![Screenshot 2023-09-19 235329](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/bd89af8a-edaa-431b-be01-49398355577d)
+![Screenshot 2023-09-20 001530](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/51e16dd9-5215-4d48-92f4-1595e30dea30)
 
-![Screenshot 2023-09-19 235408](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/18bbd345-811c-4643-b7a5-3d34e45bf3c2)
+![Screenshot 2023-09-20 001604](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/79a1d0c9-20e5-41c8-a0f8-fcee900eed70)
 
-![Screenshot 2023-09-19 235432](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/b9c3dc1f-32d8-4430-ac9b-8b3ee82a8cd9)
+![Screenshot 2023-09-20 001626](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/7cafef8d-6349-4871-bb84-23c2d910daa5)
 
-![Screenshot 2023-09-20 000234](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/3fb80736-a9e0-4246-a8fe-c318d0c0b319)
+![Screenshot 2023-09-20 001653](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/e115c40d-b1a8-4806-8936-d9b2d9d353d8)
 
-![Screenshot 2023-09-19 235534](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/8f898948-df6b-4f3c-bd37-e3130ea40d1d)
+![Screenshot 2023-09-20 001717](https://github.com/anvita-kumar30/MyPortfolio/assets/109106936/081a12b9-d035-40aa-9fc5-531adf4c3c9d)
