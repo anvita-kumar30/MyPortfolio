@@ -44,7 +44,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Projects</a></li>
-          <li><a class="nav-link scrollto " href="#work">Work</a></li>
+          <li><a class="nav-link scrollto " href="#achievements">Achievememts</a></li>
           <!-- <li><a class="nav-link scrollto " href="#blog">Blog</a></li> -->
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a> -->
             <!-- <ul>
@@ -298,15 +298,15 @@
 
     <!-- ======= Counter Section ======= -->
     <br><br>
-    <section id="work">
+    <section id="achievements">
       <div class="row">
         <div class="col-sm-12">
           <div class="title-box text-center">
             <h3 class="title-a">
-              Work
+              Achievememts
             </h3>
             <p class="subtitle-a">
-              Click on the icons below to access my GitHub profile and view my certificates and achievememts.
+              Click on the icons below to access my GitHub profile and other links.
             </p>
             <div class="line-mf"></div>
           </div>
@@ -319,7 +319,7 @@
           <div class="col-sm-3 col-lg-3">
             <div class="counter-box counter-box pt-4 pt-md-0">
               <div class="counter-ico">
-                <a href="https://github.com/anvita-kumar30"><span class="ico-circle"><i class="bi bi-check"></i></span></a>
+                <a href="https://github.com/anvita-kumar30"><span class="ico-circle"><i class="bi bi-check-circle" style="color: white;"></i></span></a>
               </div>
               <div class="counter-num">
                 <p data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="1"
@@ -331,7 +331,7 @@
           <div class="col-sm-3 col-lg-3">
             <div class="counter-box pt-4 pt-md-0">
               <div class="counter-ico">
-                <a href="https://drive.google.com/drive/folders/14pXVVHYaI3C09owYQsCXkAQ6bwFyQDhV?usp=sharing"><span class="ico-circle"><i class="bi bi-award"></i></span></a>
+                <a href="https://drive.google.com/drive/folders/14pXVVHYaI3C09owYQsCXkAQ6bwFyQDhV?usp=sharing"><span class="ico-circle"><i class="bi bi-award" style="color: white;"></i></span></a>
               </div>
               <div class="counter-num">
                 <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1"
@@ -340,30 +340,30 @@
               </div>
             </div>
           </div>
-          <!-- <div class="col-sm-3 col-lg-3">
+          <div class="col-sm-3 col-lg-3">
             <div class="counter-box pt-4 pt-md-0">
-              <div class="counter-ico">
-                <span class="ico-circle"><i class="bi bi-people"></i></span>
+              <div class="counter-ico"> 
+                <a href="https://drive.google.com/file/d/1aHK8RkvqjKSLxGek_7nQDmkJINZok4Iz/view?usp=sharing"><span class="ico-circle"><i class="bi bi-journal-bookmark" style="color: white;"></i></span></a>
               </div>
               <div class="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1"
+                <p data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1.0"
                   class="counter purecounter"></p>
-                <span class="counter-text">TOTAL CLIENTS</span>
+                <span class="counter-text">RESUME</span>
               </div>
             </div>
-          </div> -->
-          <!-- <div class="col-sm-3 col-lg-3">
+          </div>
+          <div class="col-sm-3 col-lg-3">
             <div class="counter-box pt-4 pt-md-0">
               <div class="counter-ico">
-                <span class="ico-circle"><i class="bi bi-award"></i></span>
+                <a href="https://www.linkedin.com/in/anvita-kumar30/"><span class="ico-circle"><i class="bi bi-book" style="color: white;"></i></span></a>
               </div>
               <div class="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="48" data-purecounter-duration="1"
+                <p data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1"
                   class="counter purecounter"></p>
-                <span class="counter-text">AWARD WON</span>
+                <span class="counter-text">EDUCATION</span>
               </div>
             </div>
-          </div> -->
+          </div>
         </div>
       </div>
     </div>
@@ -815,6 +815,29 @@
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
+
+  <!-- <script>
+  // Function to animate the counter with decimal places
+  function animateCounter(element, start, end, duration) {
+    let startTime;
+    const step = (timestamp) => {
+      if (!startTime) startTime = timestamp;
+      const progress = (timestamp - startTime) / duration;
+      const value = start + progress * (end - start);
+      element.textContent = value.toFixed(2); // Display with 2 decimal places
+      if (progress < 1) {
+        requestAnimationFrame(step);
+      }
+    };
+    requestAnimationFrame(step);
+  }
+
+  // Get the HTML element with the class 'counter'
+  const counterElement = document.querySelector('.counter-num2');
+
+  // Start the counter animation
+  animateCounter(counterElement, 0, 9.74, 1000); // 1000 milliseconds (1 second) duration
+  </script> -->
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
